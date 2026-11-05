@@ -22,10 +22,3 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
-
-### 🌍 Сети и безопасность
-<p align="left">
-  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="TCP/IP">
-  <img src="https://img.shields.io/badge/DNS-000000?style=for-the-badge&logo=cloudflare&logoColor=white" alt="DNS">
-  <img src="https://img.shields.io/badge/Firewall-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="Firewall">
-</p>
