@@ -27,3 +27,6 @@
 ## Базы данных и CRM:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bitrix24](https://img.shields.io/badge/Bitrix24-FF0000?style=for-the-badge&logo=bitrix24&logoColor=white)
+
+
+![Uploading e9b951cb2ddd230027abf58327b43f30.gif…]()
